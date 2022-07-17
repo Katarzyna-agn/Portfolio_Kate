@@ -8,7 +8,7 @@ Recently I have started to develop my IT skills in the field of software testing
 
 ## Skills
 
-* Jira
+* Jira, Trello
 
 * Github
 
