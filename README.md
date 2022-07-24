@@ -10,7 +10,7 @@ Recently I have started to develop my IT skills in the field of software testing
 
 * Jira, Trello
 
-* Github
+* Git
 
 * SQL
 
