@@ -27,7 +27,7 @@ Recently I have started to develop my IT skills in the field of software testing
 
 * Participation in the charity initiative by cherry-it.pl COLT 1/2022
 
-* INCO Academy: Green Digital Skills
+* INCO Academy: Green Digital Skills Certificate Program
 
 * Practical software testing course online (Udemy)
 
