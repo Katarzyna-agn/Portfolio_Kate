@@ -25,7 +25,7 @@ Recently I have started to develop my IT skills in the field of software testing
 
 * INCO Academy: sprintEd: become a tester (certificate) 
 
-* Participation in the charity initiative by cherry-it.pl COLT 1/2022
+* cherry -it.pl: charity initiative COLT 1/2022 (collaborative testing)
 
 * INCO Academy: Green Digital Skills Certificate Program 
 
