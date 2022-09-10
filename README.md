@@ -8,11 +8,13 @@ Recently I have started to develop my IT skills in the field of software testing
 
 ## Skills
 
-* Jira, Trello
+* Jira
 
 * Git
 
 * SQL
+
+* HTML5/ CSS
 
 * Bug reports
 
@@ -21,7 +23,7 @@ Recently I have started to develop my IT skills in the field of software testing
 * Test scenarios
 
 
-## Courses/Initiative
+## Courses/ Initiative
 
 * INCO Academy | sprintEd: become a tester (certificate) 
 
