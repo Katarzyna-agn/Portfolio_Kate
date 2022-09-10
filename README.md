@@ -23,13 +23,17 @@ Recently I have started to develop my IT skills in the field of software testing
 
 ## Courses/Initiative
 
-* INCO Academy: sprintEd: become a tester (certificate) 
+* INCO Academy | sprintEd: become a tester (certificate) 
 
-* cherry -it.pl: charity initiative COLT 1/2022 (collaborative testing)
+* cherry -it.pl | charity initiative COLT 1/2022 (collaborative testing)
 
-* INCO Academy: Green Digital Skills Certificate Program 
+* INCO Academy | Green Digital Skills Certificate Program 
 
 * Practical software testing course online (Udemy)
+
+* GoIT | Maraton HTML, CSS  
+
+
 
 
 ## Recommended blogs
