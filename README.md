@@ -45,7 +45,7 @@ I have several years of experience in Quality Assurance and Development at an in
 
 * [cherry-it.pl](http://cherry-it.pl)
 
-* [w3schools.com/](https://www.w3schools.com/)
+* [w3schools.com](https://www.w3schools.com/)
 
 
 ## My test scenario example
