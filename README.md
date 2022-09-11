@@ -50,7 +50,7 @@ I have several years of experience in Quality Assurance and Development at an in
 
 ## My test scenario example
 
-* [Scenariusz testowy dla wyszukiwarki sklepu Decathlon](https://docs.google.com/document/d/1OPg7e4CoX65q1TWLKQLTlQkV3r-UX89HGex6cc58PIY/edit)
+* [Test scenario](https://docs.google.com/document/d/1OPg7e4CoX65q1TWLKQLTlQkV3r-UX89HGex6cc58PIY/edit)
 
 ## My Website
 
