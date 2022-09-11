@@ -52,5 +52,5 @@ I have several years of experience in Quality Assurance and Development at an in
 
 ## My website
 
-* [cupcakecv28](https://cupcakecv28.netlify.app/)
+* [cupcakecv28.netify.app](https://cupcakecv28.netlify.app/)
 
