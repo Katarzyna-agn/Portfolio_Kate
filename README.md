@@ -2,7 +2,7 @@
 
 ## About me
 
-I have several years of experience in Quality Assurance and Development at an international company in the FMCG industry.  In 2022 I have started to develop my IT skills in the field of software testing. I'm excited to learn something new, and I know this field  will allow me to use my skills while also gaining new knowlage. I'm sport passionate what gives me a lot of good energy and learns me persistence and good time organization. On this site I would like to share my experience and my interests.
+I have several years of experience in Quality Assurance and Development at an international company in the FMCG industry.  In 2022 I have started to develop my IT skills in the field of software testing. I'm excited to learn something new, and I know this field  will allow me to use my skills while also gaining new knowlage. I'm sport passionate what gives me a lot of good energy and learns me persistence and good time management. On this site I would like to share my experience and my interests.
 
 
 ## Skills
