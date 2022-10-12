@@ -48,9 +48,6 @@ I have several years of experience in Quality Assurance and Development at an in
 * [w3schools.com](https://www.w3schools.com/)
 
 
-## My test scenario example
-
-* [Test scenario](https://docs.google.com/document/d/1OPg7e4CoX65q1TWLKQLTlQkV3r-UX89HGex6cc58PIY/edit)
 
 ## My Website
 
