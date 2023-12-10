@@ -2,14 +2,13 @@
 
 ## About me
 
-I have several years of experience in Quality Assurance and Development at an international company in the FMCG industry.  In 2022 I have started to develop my IT skills in the field of software testing. I'm excited to learn something new, and I know this field  will allow me to use my skills while also gaining new knowlage. I'm sport passionate what gives me a lot of good energy and learns me persistence and good time management. On this site I would like to share my experience and my interests.
+I have several years of experience in Quality Assurance and Development at an international company in the FMCG industry. In 2022 I have started to expand my skills in the field of software testing. Since March 2023 I have work as a software tester in financial institution. At my work I learn a lot and improve my knowlage in software testing.
+Additionaly I expand my skills in test automatization and digital accecibility, I have Trusted Tester certificate.
+I'm a sport passionate what gives me a lot of good energy and learns me persistence and good time management.
+In the meantime I learn Spanish, I love listen to music in this language.
 
 
 ## Skills
-
-* Jira
-
-* Git
 
 * SQL
 
@@ -21,6 +20,15 @@ I have several years of experience in Quality Assurance and Development at an in
 
 * Test scenarios
 
+* Git
+
+* TestLink
+
+* Redmine
+
+* SCRUM
+
+
 
 ## Courses/ Initiative
 
@@ -30,11 +38,7 @@ I have several years of experience in Quality Assurance and Development at an in
 
 * INCO Academy | Green Digital Skills Certificate Program 
 
-* Practical software testing course online (Udemy)
-
 * GoIT | Maraton HTML, CSS  
-
-
 
 
 ## Recommended blogs
@@ -45,11 +49,9 @@ I have several years of experience in Quality Assurance and Development at an in
 
 * [cherry-it.pl](http://cherry-it.pl)
 
-* [w3schools.com](https://www.w3schools.com/)
 
 
 
-## My Website
 
-* [cupcakecv28.netify.app](https://cupcakecv28.netlify.app/)
+
 
