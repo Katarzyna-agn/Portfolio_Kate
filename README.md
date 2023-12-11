@@ -29,7 +29,6 @@ In the meantime I learn Spanish, I love listen to the music in this language.
 * SCRUM
 
 
-
 ## Courses/ Initiative
 
 * INCO Academy | sprintEd: become a tester (certificate) 
@@ -41,13 +40,29 @@ In the meantime I learn Spanish, I love listen to the music in this language.
 * GoIT | Maraton HTML, CSS  
 
 
-## Recommended blogs
+## My repositories
 
-* [testerzy.pl](http://testerzy.pl)
+* [Selenium Robot Framework](https://github.com/Katarzyna-agn/Challenge_portfolio_kate2_robotframework)
 
-* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
+* [Selenium Python](https://github.com/Katarzyna-agn/Challenge_portfolio_kate)
 
-* [cherry-it.pl](http://cherry-it.pl)
+
+## My test cases
+
+* [Test Cases](https://docs.google.com/spreadsheets/d/1OFYKQWfsM3eru0KxDEgOtwP7QvAVzzhZoE_htZx1oVE/edit#gid=383163130)
+  
+
+## My bug reports
+
+* [Bug Reports](https://docs.google.com/spreadsheets/d/1Oze6tGCIenr0qwyVzywTphXJ2BXUburgRhCzhvWZEAI/edit#gid=0)
+
+
+## My test report 
+
+* [Test Report]()
+
+
+
 
 
 
