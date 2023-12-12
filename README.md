@@ -3,7 +3,7 @@
 ## About me
 
 I have several years of experience in Quality Assurance and Development at an international company in the FMCG industry. In 2022 I have started to expand my skills in the field of software testing. I was a tester on test.io and since March 2023 I have worked as a software tester at a financial institution. At my work I learn a lot and improve my knowlage in software testing, I cooperate with developers, analitycs, project managers and people from the business area.
-Additionaly I expand my skills in automated software testing and digital accecibility, I have Trusted Tester certificate.
+Additionaly I expand my skills in automated software testing and web accecibility.
 I'm a sport passionate what gives me a lot of good energy and learns me persistence and good time management.
 In the meantime I learn Spanish, I love listen to the music in this language.
 
