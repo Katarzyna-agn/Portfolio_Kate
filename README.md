@@ -12,7 +12,7 @@ In the meantime I learn Spanish, I love listen to the music in this language.
 
 * SQL
 
-* HTML5/ CSS
+* HTML/ CSS
 
 * Bug reports
 
@@ -31,13 +31,23 @@ In the meantime I learn Spanish, I love listen to the music in this language.
 
 ## Courses/ Initiative
 
-* INCO Academy | sprintEd: become a tester (certificate) 
+* GoIT | UX/UI Design
 
-* cherry -it.pl | charity initiative COLT 1/2022 (collaborative testing)
+* Cherry-IT.pl | charity initiative COLT 1/2023 (collaborative testing)
+
+* INCO Academy/ Google | Data Analytics 
+
+* INCO Academy | Get Into Tech
+
+* GoIT | HTML, CSS Marathon
+
+* Cherry-IT.pl | Training project
 
 * INCO Academy | Green Digital Skills Certificate Program 
 
-* GoIT | Maraton HTML, CSS  
+* Cherry-IT.pl | charity initiative COLT 1/2022 (collaborative testing)
+  
+* INCO Academy | sprintEd: become a tester (certificate) 
 
 
 ## My repositories
@@ -47,19 +57,19 @@ In the meantime I learn Spanish, I love listen to the music in this language.
 * [Selenium Python](https://github.com/Katarzyna-agn/Challenge_portfolio_kate)
 
 
-## My test cases
+## My test cases example
 
 * [Test Cases](https://docs.google.com/spreadsheets/d/1OFYKQWfsM3eru0KxDEgOtwP7QvAVzzhZoE_htZx1oVE/edit#gid=383163130)
   
 
-## My bug reports
+## My bug reports example
 
 * [Bug Reports](https://docs.google.com/spreadsheets/d/1Oze6tGCIenr0qwyVzywTphXJ2BXUburgRhCzhvWZEAI/edit#gid=0)
 
 
-## My test report 
+## My tests report example 
 
-* [Test Report]()
+* [Tests Report](https://docs.google.com/spreadsheets/d/1isxMvwEju7-1jEfOB7K2e_VjdbEE2ge56YbKKylxmy8/edit?usp=drive_link)
 
 
 
