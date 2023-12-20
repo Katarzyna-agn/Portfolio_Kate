@@ -62,7 +62,7 @@ In the meantime I learn Spanish, I love listen to the music in this language.
 * [Test Cases](https://docs.google.com/spreadsheets/d/1OFYKQWfsM3eru0KxDEgOtwP7QvAVzzhZoE_htZx1oVE/edit#gid=383163130)
   
 
-## My bug reports example
+## My bugs report example
 
 * [Bug Reports](https://docs.google.com/spreadsheets/d/1Oze6tGCIenr0qwyVzywTphXJ2BXUburgRhCzhvWZEAI/edit#gid=0)
 
