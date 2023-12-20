@@ -14,6 +14,10 @@ In the meantime I learn Spanish, I love listen to the music in this language.
 
 * HTML/ CSS
 
+* Devtools
+
+* ANDI
+
 * Bug reports
 
 * Test cases
@@ -31,7 +35,7 @@ In the meantime I learn Spanish, I love listen to the music in this language.
 
 ## Courses/ Initiative
 
-* GoIT | UX/UI Design
+* GoIT | UX/UI Design Marathon
 
 * Cherry-IT.pl | charity initiative COLT 1/2023 (collaborative testing)
 
@@ -47,7 +51,7 @@ In the meantime I learn Spanish, I love listen to the music in this language.
 
 * Cherry-IT.pl | charity initiative COLT 1/2022 (collaborative testing)
   
-* INCO Academy | sprintEd: become a tester (certificate) 
+* INCO Academy | sprintEd: become a tester 
 
 
 ## My repositories
