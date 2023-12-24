@@ -34,6 +34,7 @@ In the meantime I learn Spanish, I love listen to the music in this language.
 
 
 ## Courses/ Initiative
+* Dare IT Challenge - Automated Testing + Python
 
 * GoIT | UX/UI Design Marathon
 
