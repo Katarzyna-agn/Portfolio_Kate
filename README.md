@@ -14,9 +14,11 @@ In the meantime I learn Spanish, I love listen to the music in this language.
 
 * HTML/ CSS
 
-* Devtools
+* Devtools (with Axe Accesibility Tool)
 
 * ANDI - Accessibility Testing Tool
+
+* Selenium Webdriver + Python, Robot Framework
 
 * Bug reports
 
