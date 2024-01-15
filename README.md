@@ -57,9 +57,9 @@ In the meantime I learn Spanish, I love listen to the music in this language.
 
 * INCO Academy | Green Digital Skills Certificate Program 
 
-* Cherry-IT.pl | charity initiative COLT 1/2022 (collaborative testing)
+* Cherry-IT.pl | Charity initiative COLT 1/2022 (collaborative testing)
   
-* INCO Academy | sprintEd: become a tester 
+* INCO Academy | SprintEd: become a tester 
 
 
 ## My repositories
