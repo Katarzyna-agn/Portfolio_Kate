@@ -8,7 +8,7 @@ I'm a sport passionate what gives me a lot of good energy and learns me persiste
 In the meantime I learn Spanish, I love listen to the music in this language.
 
 
-## Skills
+## Skills/ Tools
 
 * SQL
 
