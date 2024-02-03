@@ -3,8 +3,8 @@
 ## About me
 
 I have several years of experience in Quality Assurance and Development department at an international company in the FMCG industry. In 2022 I have started to expand my skills in the field of software testing. I was a tester on test.io and since March 2023 I have worked as a software tester at a financial institution. At my work I learn a lot and improve my knowlage in software testing, I cooperate with developers, analytics, project managers and people from the business area.
-Additionaly I expand my skills in automated software testing and digital accecibility, I am a DHS Trusted Tester.
-I'm a sport passionate what gives me a lot of good energy and learns me persistence and good time management.
+Additionaly I expand my skills in automated software testing and digital accecibility, I am a certified DHS Trusted Tester.
+I'm passionate about sports what gives me a lot of good energy and learns me persistence and good time management.
 In the meantime I learn Spanish, I love listen to the music in this language.
 
 
@@ -37,7 +37,7 @@ In the meantime I learn Spanish, I love listen to the music in this language.
 
 ## Courses/ Initiative
 
-* Dare IT Challenge - Automated Testing + Python
+* Dare IT Challenge | Automated Testing in Practice
 
 * U.S. Department of Homeland Security | DHS Trusted Tester 
 
