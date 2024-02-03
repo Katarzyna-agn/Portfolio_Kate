@@ -43,7 +43,7 @@ In the meantime I learn Spanish, I love listen to the music in this language.
 
 * GoIT | UX/UI Design Marathon
 
-* GoIT | Maraton Test Drive
+* GoIT | Test Drive Marathon
 
 * Cherry-IT.pl | Charity initiative COLT 1/2023 (collaborative testing)
 
