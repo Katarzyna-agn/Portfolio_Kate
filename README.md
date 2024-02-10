@@ -66,7 +66,7 @@ In the meantime I learn Spanish, I love listen to the music in this language.
 
 * [Selenium Robot Framework](https://github.com/Katarzyna-agn/Challenge_portfolio_kate2_robotframework)
 
-* [Selenium Python](https://github.com/Katarzyna-agn/Challenge_portfolio_kate)
+* [Selenium Webdriver_Python](https://github.com/Katarzyna-agn/Challenge_portfolio_kate)
 
 
 
